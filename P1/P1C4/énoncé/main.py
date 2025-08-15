@@ -1,1 +1,5 @@
-# Écrivez votre code ici !
+nom = Tonny
+age = 25
+print(f" je m'appelle {nom} et j'ai {age} ans,")
+age = age +10
+printf" je m'appelle {nom} et j'ai {age} ans maintenant")# Écrivez votre code ici !
